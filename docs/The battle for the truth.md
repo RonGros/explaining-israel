@@ -14,7 +14,3 @@ Since the facts do not align with the anti-Israeli campaign, it would only makes
 3. Using media channels (such as Al-Jazeera, but sadly also BBC) to spread propaganda
 4. Creating social-media content (in TikTok, Instagram) assuming no one will even try to question what they see as long as it is presented in a persuasive manner
 
-
-
-
-#Hasbara/about
