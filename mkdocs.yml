@@ -2,7 +2,7 @@ site_name: Explaining Israel
 site_url: https://rongros.github.io/explaining-israel/
 theme:
   name: material
-  logo: assets/logo.png
+  logo: Assets/logo.png
 markdown_extensions:
   - admonition
   - pymdownx.details
