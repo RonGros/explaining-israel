@@ -92,24 +92,3 @@ This is a hot topic because one of the campaigns is to make Israelis look like w
 * Adriani Relandi book of 1699 - A Christian that wrote a book about the land of Israel and talks about the Jewish majoriy on 1699
 [Adriani Relandi Visit to Palestine 1699 - YouTube](https://www.youtube.com/watch?v=P2xmmOmHqCU\&feature=youtu.be)
 
-## Education 
-This is a very important topic about how Muslims in general and Palestinians specifically are being educated to hate Jews and Israelis
-
-* Khaled Hassan - Egyptian, about anti-Jewish stories he was brought up on
-[(4) Khaled Hassan on X: "I want to share something deeply personal today. When I tell you that I was taught to hate Jews, like the overwhelming majority of Muslims in the Muslim world, I mean every word. My father died in 2016. I didn't attend his funeral or burial in Cairo. I felt awful, so I asked my https://t.co/mICQj4gUZT" / X](https://x.com/Khaledhzakariah/status/1810363088765595738?t=a4dV-M-leggp7S5kLYYfWA\&s=08)
-
-* Dani Buller - things found on Palestinian textbooks 
-[Dani Buller | Come inside a Palastinian classroom #palestine #unrwa #gaza | Instagram](https://www.instagram.com/ask__dani/reel/C01pdO6oqnE/)
-
-* Summer camps in Gaza
-[Inside the Gaza Summer Camps Training Children to be the Next Generation of Terrorists - YouTube](https://www.youtube.com/watch?v=vCWMBvxWKL0)
-
-* Gazan TV show for kids - A critic view by Al Jazeera (!) when they were still a real television
-[Gaza's political children's show - 26 Feb 08 - YouTube](https://www.youtube.com/watch?v=W3jHj93JFMQ)
-
-* A play about stabbing Jews 
-[Gaza kids put on play about stabbing, killing Israelis - YouTube](https://www.youtube.com/watch?v=4QRYCXm42Wg)
-
-
-
-

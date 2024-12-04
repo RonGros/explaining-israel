@@ -5,7 +5,8 @@ As such, after seeing many posts, you recognize different patterns which I think
 it is important to say that these patterns evolve over time, and by no means this list is a full list of their tactics, but the list below will list at least a few that will allow you to recognize patterns when you see them
 
 ## List of tactics and Propaganda tools
-### Blame Israel for what we do
+### Counter-blaming
+Or in other wods - Blame Israel for what we do
 Probably the most well-known tactic being used - the anti-Israeli crowd will blame Israel for anything that Israel blames Hamas. this tries to create equivalence between Hamas, a murderous terror organization, and Israel - the democratic country, and to reduce the shock from the things that Hamas does, mainly those that happened during October 7th.  For example:
 * Comparing the hostages to the Palestinian prisoners (that usually committed violent crimes)
 * Accusing Israeli soldiers of rape of Palestinian women
@@ -15,13 +16,32 @@ Probably the most well-known tactic being used - the anti-Israeli crowd will bla
 
 My tactic here is to give a real example of how the other side does exactly that (easy to find these examples, I will add some resources for easier access) and show how these things are exactly the things that Hamas and the PA do
 
-### Throw a lot of false accusations for the sake of saying them
+### Trash-Talking
+Or in other words - Throw a lot of false accusations for the sake of saying them
 This is another well-known tactic, also known as - if you repeat the same lie over and over again, people will start believing it
 When this tactic is used, you will see posts that, in response to anything you say, will not address anything you say but instead will just say that your country is a genocider baby-killer ethno-cleansing, European white colonizer, apartheid terror state (or something along these lines)
 The main goal of these things is to influence other readers to believe it, so they keep repeating these over and over
 
 My tactic is to call them out exactly - saying that they can repeat these lies, but it will not make them real, and then to address at least some of these accusations show how false they are
 We will address some of these accusations in specific pages
+
+
+### From specific to generic
+Or in other words - take one example, make it a general rule
+This tactic is about making a claim and then giving examples that support this claim (which is valid of course), but taking examples that do not represnt the norm, and sometimes even prove that the other point when you get into the details
+
+This is a classic tactic that leans on the fact that most readers do not have enough knowledge to distinguish between reality and anecdotes 
+
+For example - 
+* A video of a Jewish mother asking her child what he would like to be when he grows up, and he says he would like to kill the Arabs
+* Bringing up Eleor Azarya's story of killing a Palestinian (terrorist) after he was already on the floor
+* Bringing up the Dier-Yasin massacre
+
+These all serve to portray Israelis is villians while they are either anecdotal or prove otherwise:
+
+- The first video is an anecdote
+- Eleor Azarya was sent to prison for what he did, which proves exactly the opposite point - we do not support it here
+- Dier Yassin is a more complex issue and deserves its own page, but the mere fact that this is the only example that is constantly being brought up from 80 years ago shows they do not have a lot of evidence
 
 ### Multi-layered claims
 This is one of my favorites! I am pretty sure there is another, more professional, name for these things, but since I am not a professional, I will use my made-up name for it 🎃
