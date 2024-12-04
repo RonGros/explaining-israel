@@ -33,7 +33,9 @@ There is not much evidence from the anti-Israeli side to this claim. what I did 
 
 When you do try to ask people to show an example of official education books that dehumanize the Palestinians there is no answer because there are no such books.
 On the other hand you can find books that talk about living together, also when you look at the official schoolbooks, you will find both Arabic and Hebrew books. here is an example of the book "Living together" where you can see on the front page Jews and Arabs together:
-https://school.kotar.cet.ac.il/KotarApp/Viewer.aspx?nBookID=113295528#1.6889.6.default
+
+[Together In Israel digital book](https://school.kotar.cet.ac.il/KotarApp/Viewer.aspx?nBookID=113295528#1.6889.6.default)
+
 
 #### The Palestinian side
 There is overwhelming evidence of anti-Jewish and anti Israeli education, and education that promotes "Mertyrhood" and violence against Israelis in the Palestinian education system, both by Hamas and by the Palestinian Authority that is considered much more moderate
