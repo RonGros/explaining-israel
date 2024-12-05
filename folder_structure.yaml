@@ -1,0 +1,22 @@
+.:
+  dirs:
+  - Assets
+  - General
+  - Specific Topics
+  files:
+  - index.md
+Assets:
+  dirs: []
+  files:
+  - logo.png
+  - Politicas_violence_events_Between_the_idf_and_hezbollah.png
+General:
+  dirs: []
+  files:
+  - Propaganda-Tactics.md
+  - Social Network Resources.md
+  - The battle for the truth.md
+Specific Topics:
+  dirs: []
+  files:
+  - Education.md

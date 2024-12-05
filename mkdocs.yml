@@ -9,4 +9,13 @@ markdown_extensions:
   - pymdownx.superfences
   - attr_list
   - md_in_html
-  
+nav:
+  - Home: index.md
+  - General:
+    - General\The battle for the truth.md
+    - General\Propaganda-Tactics.md
+    - General\Social Network Resources.md
+  - Specific Topics:
+    - Specific Topics\Education.md
+    - Specific Topics\The indigineous People.md
+
