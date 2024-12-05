@@ -10,6 +10,13 @@ I have been actively trying to address these false narratives, every time bumpin
 After some time I felt like most of the claims I was seeing started repeating themselves (although there are new suprises from time to time), and decided that I reached a certain degree of knowledge where it would be good if I shared it with others who are as pationate as I am about the topic, and decided the best way of doing it is to create database of knowledge that I can allow selected people to contribute to.
 I will try, as much as I can, to add sources and links to things that can help people understand and expalin things better, hoepfully - we can make this world a bit better! 
 
+# Sources of information
+Getting to the point where I can answer almost all of the claims of the other side took me quite a while. from time to time I heard things that got me thinking and even questioning our narrative, but the more I read the more I got confident that we are on the right side.
+I will try to list sources of information for many things, I will also try to bring as many things from non-Israeli sources, as sadly they are now considered biased and not credible, but it will not always be possible
+
+Hope you find this interesting and useful!
+
+
 !!! tip "Start browing"
 
     Look at the left navigation bar to find things that you find interesting

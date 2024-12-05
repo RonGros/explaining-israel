@@ -8,6 +8,7 @@ it is important to say that these patterns evolve over time, and by no means thi
 ### Counter-blaming
 Or in other wods - Blame Israel for what we do
 Probably the most well-known tactic being used - the anti-Israeli crowd will blame Israel for anything that Israel blames Hamas. this tries to create equivalence between Hamas, a murderous terror organization, and Israel - the democratic country, and to reduce the shock from the things that Hamas does, mainly those that happened during October 7th.  For example:
+
 * Comparing the hostages to the Palestinian prisoners (that usually committed violent crimes)
 * Accusing Israeli soldiers of rape of Palestinian women
 * Accusing Israeli soldiers of targeting civilians
@@ -33,6 +34,7 @@ This tactic is about making a claim and then giving examples that support this c
 This is a classic tactic that leans on the fact that most readers do not have enough knowledge to distinguish between reality and anecdotes 
 
 For example - 
+
 * A video of a Jewish mother asking her child what he would like to be when he grows up, and he says he would like to kill the Arabs
 * Bringing up Eleor Azarya's story of killing a Palestinian (terrorist) after he was already on the floor
 * Bringing up the Dier-Yasin massacre

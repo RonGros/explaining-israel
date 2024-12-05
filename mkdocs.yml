@@ -9,6 +9,10 @@ markdown_extensions:
   - pymdownx.superfences
   - attr_list
   - md_in_html
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
 nav:
   - Home: index.md
   - General:
@@ -18,4 +22,5 @@ nav:
   - Specific Topics:
     - Specific Topics/Education.md
     - Specific Topics/The indigineous People.md
+    - Specific Topics/Who Owns The Land.md
 

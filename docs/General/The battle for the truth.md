@@ -9,6 +9,7 @@ This explained a lot.
 The battle we are now fighting is a result of multiple fronts - injecting Anti-Israeli agendas to universities, creating highly-sophisticated social media campaign using automation, bots, and well-prepared fake accounts, creating or hijacking existing internationally-credible human-rights or similar organizations to make this narrative credible, using support from Muslim immigrants who would support Muslims automatically without questioning (not all of them, but there are enough who would), and changing wikipedia pages to fit the narrative and more (see [https://www.piratewires.com/p/how-wikipedia-s-pro-hamas-editors-hijacked-the-israel-palestine-narrative](https://www.piratewires.com/p/how-wikipedia-s-pro-hamas-editors-hijacked-the-israel-palestine-narrative))     
 
 Since the facts do not align with the anti-Israeli campaign, it would only makes sense that they try rewrite history. they do that by - 
+
 1. Creating new material that will be easily found and can be easily shared in the internet
 2. Re-writing existing wikipedia values because this is today the main source of truth
 3. Using media channels (such as Al-Jazeera, but sadly also BBC) to spread propaganda
