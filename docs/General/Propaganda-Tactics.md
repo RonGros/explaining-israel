@@ -51,7 +51,7 @@ Multi layered claims are of the following structure - “Given the implicit _fal
 Using this structure the author is trying to make you try to debunk claim B, and by that admitting that claim A is true when it isn’t, or at least getting you to “play in their court” which will usually take you to places where you will have a harder time.
 Now these claims will not always be obvious, and that’s what makes them trickier.
 A quick example - someone will show you a graph of the number (source - ACLED: [Situation update: Israel-Hezbollah conflict](https://acleddata.com/2024/10/10/situation-update-israel-hezbollah-conflict/)):
-![Politicas_violence_events_Between_the_idf_and_hezbollah.png](./Assets/Politicas_violence_events_Between_the_idf_and_hezbollah.png "Politicas_violence_events_Between_the_idf_and_hezbollah.png")
+![Politicas_violence_events_Between_the_idf_and_hezbollah.png](../Assets/Politicas_violence_events_Between_the_idf_and_hezbollah.png "Politicas_violence_events_Between_the_idf_and_hezbollah.png")
  Combines the fact that Israel is invading Lebanon and that the IDF is provoking more violence, will make people that the IDF is the aggressor while Hezbollah is not. also notice that this is true from “day 1” of the conflict.
  I will not get into the question of how accurate this data is and how biased the authors are, because ACLED are considered quite credible
  

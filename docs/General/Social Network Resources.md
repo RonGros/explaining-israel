@@ -89,6 +89,4 @@ This is a hot topic because one of the campaigns is to make Israelis look like w
 * A video from CBS  
 [Instagram video by Charles Ashkenazi | Tel Aviv | Real Estate 🏡 • Jun 2, 2024 at 2:17 PM](https://www.instagram.com/reel/C7umUS5toFe/?igsh=NzRncmk3ZTlnaGU5)
 
-* Adriani Relandi book of 1699 - A Christian that wrote a book about the land of Israel and talks about the Jewish majoriy on 1699
-[Adriani Relandi Visit to Palestine 1699 - YouTube](https://www.youtube.com/watch?v=P2xmmOmHqCU\&feature=youtu.be)
 
