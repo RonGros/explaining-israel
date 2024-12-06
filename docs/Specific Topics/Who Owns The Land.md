@@ -28,7 +28,7 @@ Additionally it needs to be noted that the Jewish population was much smaller, i
 This led the Arabs to believe that the entire land should be theirs, and they perceived the growing Jewish immigration as a threat, which also led to the Arab Revolt in 1936
 See below - the distribution of population as recorded by the Special Committee of the UN, you will see that most areas had an Arab majority
 
-![1946 Arab/Jewish population by subdistricts (source: UN)](../Assets/maps/1946_Population.jpg)
+![1946 Arab/Jewish population by subdistricts (source: UN)](../Assets/maps/1946_population.jpg)
 [1946 Arab/Jewish population by subdistricts (source: UN)](https://www.un.org/unispal/document/1946-map-of-palestine-indicating-distribution-of-population-by-subdistricts-with-percentages-of-a-jews-and-b-arabs/)
 
 In the eyes of the Arab leaders, since the percentage of Jews was small, the fact that the Jewish state was around half of the entire land was unfair, therefore that is the reason they justify the fact that the Arabs refused the UN partition plan
