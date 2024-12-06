@@ -18,9 +18,10 @@ To answer this question we would like to cover the following
 
 ### The state of the population during the Ottoman empire
 
-Another important point is that when looking at the population you need to look further back. how much? it’s hard to say
+We cover teh state of the population during the British Mandate in the page [“Who Owns The Land”](Who Owns The Land.md)
+An important question one needs to ask himself when looking at the population in Israel is - how much back should we look to decide? There is no one good answer to that.
 
-While there were more than a million muslins in Israel in 1947, that was not always the case. In fact in the early 1800s tere were only around 250,000 Muslims in the country. 
+While there were more than a million muslims in Israel in 1947, that was not always the case. In fact in the early 1800s tere were only around 250,000 Muslims in the country. 
 While this was still much more than the number of Jews, you also need to take into consideration the fact that the Jews were expelled also by the Ottomoan empire, and had to live as second-class citizens (paying the [Jyiza](https://en.wikipedia.org/wiki/Jizya) tax, along with other taxes), and that the Ottoman empire [promoted](https://en.wikipedia.org/wiki/Muslim_migrations_to_Ottoman_Palestine#:~:text=Muslim%20migrations%20to%20Palestine%20began,19th%20and%20early%2020th%20centuries.) migration into less populated areas (such as Israel) and by that increased the Muslim population during the 16th century 
 
 In 1831, Muhammad Ali Pasha of Egypt [took control](https://en.wikipedia.org/wiki/Egyptian%E2%80%93Ottoman_War_(1831%E2%80%931833)) over the land of Israel, and controlled it until 1839. during that time he sent many (numbers are unknown, but estimated as more than 30,000 people) to live there, increasing the number of Muslims in the area.
