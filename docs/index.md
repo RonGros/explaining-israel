@@ -16,6 +16,9 @@ I will try to list sources of information for many things, I will also try to br
 
 Hope you find this interesting and useful!
 
+# Right of self determination
+This site does not reject the idea of right of self determination for Palestinians. even if the Palestinian identity is modern, it does not mean that they do not have rights. this is a dispute that will not be explored here.
+Insteade this site tries to give context, and provide factual evidence to different anti-Israeli claims 
 
 !!! tip "Start browing"
 
