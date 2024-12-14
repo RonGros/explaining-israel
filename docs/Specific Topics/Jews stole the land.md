@@ -21,7 +21,7 @@ Due to the changes in rules both Muslims and Jews started purchasing lands in th
 Some of the lands that were bought were used by farmers (Fellah), and those were usually paid well to leave their lands altough they were not officially the owners of these lands.
 Before the British Mandate, around half a million of Duanms were purchased by the Jewish organizations (around 120K acres). by the end of the British Mandate this was quadrupled
 
-Until the end of the british empire, no lands were forcibly taken or “stolen” from Arabs by the Jews
+Until the end of the british mandate, no lands were forcibly taken or “stolen” from Arabs by the Jews
 
 ### The source of the narrative 
 There are two things that serve as the basis to this false narrative and are being used by Anti-Israelis
