@@ -21,6 +21,5 @@ I hope you find this interesting and useful!
 This site does not reject the right of self-determination for Palestinians. Even if the Palestinian identity is relatively modern, that does not mean they lack rights. This is a complex dispute that will not be explored here.
 Instead, this site aims to provide context and factual evidence in response to various anti-Israeli claims.
 
-!!! tip "Start browing"
-
+!!! tip "Start browsing"
 Use the navigation bar on the left to explore topics that interest you.
