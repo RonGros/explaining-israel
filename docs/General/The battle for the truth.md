@@ -1,17 +1,26 @@
-# The battle for the truth
+# The Battle for Truth
+The immediate and widespread nature of the anti-Israeli campaign following October 7th strongly suggested a pre-existing, long-term preparation. This became even more apparent when elite U.S. Ivy League universities began echoing pro-Hamas sentiments and parroting anti-Israeli propaganda, indicating that this indoctrination had begun much earlier.
 
-It was obvious from the beginning that this anti-Israeli campaign was all ready-to-go before October 7th, and was actually prepared a long time ago, it was even more obvious when the US ivy-league universities started showing support for Hamas and parroted anti-Israeli propaganda. that meant that this indoctrination started way before.
- 
-At some point I bumped into this very interesting piece by Gary Wexler: 
-[The Inside Story of How Palestinians Took Over the World](https://jewishjournal.com/commentary/columnist/365220/the-inside-story-of-how-palestinians-took-over-the-world/)
-This explained a lot.
+During my research, I encountered a particularly insightful piece by Gary Wexler, titled [The Inside Story of How Palestinians Took Over the World](https://jewishjournal.com/commentary/columnist/365220/the-inside-story-of-how-palestinians-took-over-the-world/)
 
-The battle we are now fighting is a result of multiple fronts - injecting Anti-Israeli agendas to universities, creating highly-sophisticated social media campaign using automation, bots, and well-prepared fake accounts, creating or hijacking existing internationally-credible human-rights or similar organizations to make this narrative credible, using support from Muslim immigrants who would support Muslims automatically without questioning (not all of them, but there are enough who would), and changing wikipedia pages to fit the narrative and more (see [https://www.piratewires.com/p/how-wikipedia-s-pro-hamas-editors-hijacked-the-israel-palestine-narrative](https://www.piratewires.com/p/how-wikipedia-s-pro-hamas-editors-hijacked-the-israel-palestine-narrative))     
+The conflict we are currently engaged in is a multi-front battle. This includes:
 
-Since the facts do not align with the anti-Israeli campaign, it would only makes sense that they try rewrite history. they do that by - 
+* **Infiltrating Academic Institutions**: Injecting anti-Israeli agendas into universities, influencing future generations.
 
-1. Creating new material that will be easily found and can be easily shared in the internet
-2. Re-writing existing wikipedia values because this is today the main source of truth
-3. Using media channels (such as Al-Jazeera, but sadly also BBC) to spread propaganda
-4. Creating social-media content (in TikTok, Instagram) assuming no one will even try to question what they see as long as it is presented in a persuasive manner
+* **Sophisticated Social Media Operations**: Executing highly sophisticated campaigns utilizing automation, bots, and meticulously prepared fake accounts.
 
+* **Co-opting Credible Organizations**: Creating or hijacking existing internationally credible human rights organizations and similar bodies to lend legitimacy to their narrative.
+
+* **Leveraging Diaspora Support**: Gaining support from a segment of Muslim immigrants who, without critical questioning, automatically side with fellow Muslims.
+
+* **Rewriting Digital History**: Systematically altering Wikipedia pages to align with their narrative (as detailed in "[How Wikipedia’s Pro-Hamas Editors Hijacked the Israel-Palestine Narrative](https://www.piratewires.com/p/how-wikipedia-s-pro-hamas-editors-hijacked-the-israel-palestine-narrative)" by Pirate Wires).
+
+Given that the objective facts often do not align with the anti-Israeli campaign's claims, it is logical that they would resort to rewriting history. This is achieved through several key methods:
+
+1. Manufacturing New Content: Creating new material specifically designed for easy discoverability and widespread sharing across the internet.
+
+2. Manipulating Wikipedia: Rewriting existing Wikipedia entries, recognizing its status as a primary source of information and "truth" for many today.
+
+3. Exploiting Media Channels: Utilizing influential media outlets, such as Al-Jazeera and, regrettably, even the BBC, to disseminate their propaganda.
+
+4. Crafting Persuasive Social Media Content: Developing content for platforms like TikTok and Instagram, operating on the assumption that users are unlikely to question what they see, especially if presented in a highly persuasive manner.
