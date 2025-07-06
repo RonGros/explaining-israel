@@ -43,22 +43,6 @@ Elor Azaria was prosecuted and imprisoned for his actions, which directly refute
 
 Deir Yassin is a complex historical event that warrants detailed discussion. However, the fact that this eighty-year-old incident is almost exclusively cited suggests a scarcity of other supporting evidence for broader accusations.
 
-### Multi-layered claims
-This is one of my favorites! I am pretty sure there is another, more professional, name for these things, but since I am not a professional, I will use my made-up name for it 🎃
-Multi layered claims are of the following structure - “Given the implicit _false claim A_ I claim that _false claim b_”
-Using this structure the author is trying to make you try to debunk claim B, and by that admitting that claim A is true when it isn’t, or at least getting you to “play in their court” which will usually take you to places where you will have a harder time.
-Now these claims will not always be obvious, and that’s what makes them trickier.
-A quick example - someone will show you a graph of the number (source - ACLED: [Situation update: Israel-Hezbollah conflict](https://acleddata.com/2024/10/10/situation-update-israel-hezbollah-conflict/)):
-![Politicas_violence_events_Between_the_idf_and_hezbollah.png](../Assets/Politicas_violence_events_Between_the_idf_and_hezbollah.png "Politicas_violence_events_Between_the_idf_and_hezbollah.png")
- Combines the fact that Israel is invading Lebanon and that the IDF is provoking more violence, will make people that the IDF is the aggressor while Hezbollah is not. also notice that this is true from “day 1” of the conflict.
- I will not get into the question of how accurate this data is and how biased the authors are, because ACLED are considered quite credible
- 
- By showing this graph you will be dragged to talk about the numbers, while implicitly you are admitting that Hezbollah and the IDF are equivalent, while Hezbollah have been firing rockets at the entire northern Israel, while Israel is targeting Hezbollah centers and is trying to prevent them from firing into Israel. 
-
- This is just a single example of how you might be dragged into uncomfortable territories, sometimes without even noticing that you’ve been tricked
-
-
-
 ### Multi-layered Claims (or The Loaded Question Fallacy)
 
 This tactic, which I refer to as "multi-layered claims," is a particularly insidious form of argumentation, often akin to what is more formally known as a loaded question or complex question fallacy. Its structure typically follows this pattern: "Given the implicit false premise A, I assert that false claim B."
