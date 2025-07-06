@@ -19,7 +19,7 @@ This section will address and examine these claims.
 ### Tactics Used in This Claim
 
 !!! info "The Propaganda Tactics Page"
-If you haven't read it before, I invite you to read the propaganda tactics page.
+    If you haven't read it before, I invite you to read the propaganda tactics page.
 
 When discussing education in this context, two primary propaganda tactics are frequently employed:
 

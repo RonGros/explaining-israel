@@ -22,4 +22,4 @@ This site does not reject the right of self-determination for Palestinians. Even
 Instead, this site aims to provide context and factual evidence in response to various anti-Israeli claims.
 
 !!! tip "Start browsing"
-Use the navigation bar on the left to explore topics that interest you.
+    Use the navigation bar on the left to explore topics that interest you.
