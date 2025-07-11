@@ -3,31 +3,28 @@
 Many people claim that
 
 !!! quote "Claim"
-		The Jews stole the land from the Palestinians and kicked them out, ethnically cleansing the land
+        The Jews stole the land from the Palestinians and expelled them, ethnically cleansing the land.
 
 ## Reality
 ### Land ownership during the Ottoman empire
-Until the 19th century most of the lands were considered as Owned by the sultan. Farmers may have been considered the owners of their own land according to traditions and religious laws but there were no land ownership records kept.
-In the 19th century a few reforms were made, and the Ottomans started keeping records of land ownerships, and in 1858 a new land code was introduced. due to different reason that caused many of the privately-owned lands to be owned by rich marchents, but still the majority of the land was state-owned
+Prior to the 19th century, most lands within the Ottoman Empire were officially considered to be owned by the Sultan. While farmers may have traditionally or religiously viewed themselves as landowners, formal land ownership records were not systematically maintained. The 19th century brought significant reforms, including the initiation of land registration and the introduction of a new land code in 1858. For various reasons, this led to a portion of privately-owned lands coming under the ownership of wealthy merchants, though the majority remained state-owned.
 
-In addition due to the capitulation contracts, non-Muslim residents were able to buy lands
+Furthermore, due to capitulation agreements, non-Muslim residents were also permitted to purchase land.
 
-In the land of Israel, most of the coastline was uncaltivated and generally deserted and Malaria-stricken. Therefore these areas were classified as “Mewat”/ or “Mahlul” and the Ottomans were easier on selling it for others to take care of.
+In the region of what is now Israel, much of the coastline was uncultivated, generally deserted, and afflicted by malaria. These areas were often classified as "Mewat" or "Mahlul" (dead or fallow land), making the Ottoman authorities more amenable to their sale for development.
 
-As part of the Zionist movement both individuals and by specific organizations that were created for that purpose
+As the Zionist movement gained momentum, both individuals and dedicated organizations began actively purchasing land. Driven by the changed regulations, both Muslim and Jewish entities acquired properties. Jewish organizations, in particular, bought extensive tracts along the coastline—areas largely considered unsuitable for habitation.
 
-Due to the changes in rules both Muslims and Jews started purchasing lands in the land. The Jewish organizations bought many lands along the coastline that were considered unfit for living
+Some of the acquired lands were indeed cultivated by local farmers (Fellahin). While these farmers were not the official owners, they were typically well-compensated to vacate the land. By the beginning of the British Mandate, Jewish organizations had purchased approximately half a million dunams (around 120,000 acres). This figure quadrupled by the end of the British Mandate period.
 
-Some of the lands that were bought were used by farmers (Fellah), and those were usually paid well to leave their lands altough they were not officially the owners of these lands.
-Before the British Mandate, around half a million of Duanms were purchased by the Jewish organizations (around 120K acres). by the end of the British Mandate this was quadrupled
+It is important to note that, unlike common belief, until the end of the British Mandate, no lands were forcibly seized or "stolen" from Arabs by Jews.
 
-Until the end of the british mandate, no lands were forcibly taken or “stolen” from Arabs by the Jews
 
 ### The source of the narrative 
 There are two things that serve as the basis to this false narrative and are being used by Anti-Israelis
 
-* Farmers (Falleh) that worked in lands that they did not own and were sold to Jews sometimes had to leave their lands. this was not very common, althogh there have been such cases. the [Peel commission report](https://www.un.org/unispal/document/auto-insert-197740/) stated that
+* Evacuation of Farmers (Fellahin): In some instances, farmers (Fellahin) who worked on lands they did not legally own were displaced when those lands were legitimately sold to Jewish buyers. While such cases occurred, they were not widespread. The [Peel commission report](https://www.un.org/unispal/document/auto-insert-197740/) addressed this directly, stating:
 !!! Quote 
     The shortage of land is due less to purchase by Jews than to the increase in the Arab population. The Arab claims that the Jews have obtained too large a proportion of good land cannot be maintained. Much of the land now carrying orange groves was sand dunes or swamps and uncultivated when it was bought.
-   * During the war of independence (called “Nakba” by the Palestinians) there were some villages that were forcibly evacuated, and also villages who’s residents left, and were not allowed to come back after the war. this was largly due to the ongoing aggression and violence between the two sides, and the fear of the new Jewish state, that these people will be hostile, as happened during the [blockage on Jerusalem](https://en.wikipedia.org/wiki/Battle_for_Jerusalem)
+ * Displacement during the War of Independence (1948): During the 1948 War of Independence (referred to as "Nakba" by Palestinians), some villages were forcibly evacuated, while residents of other villages fled and were not permitted to return after the conflict. This widespread displacement was largely a consequence of the intense and ongoing aggression and violence between the two sides. The nascent Jewish state harbored fears that these displaced populations could pose a hostile threat, a concern exacerbated by events such as the [blockage on Jerusalem](https://en.wikipedia.org/wiki/Battle_for_Jerusalem)
 
